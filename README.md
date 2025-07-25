@@ -8,6 +8,7 @@
 ## Instalação
   Não é necessária uma instalação por assim dizer, mas apenas uma inclusão da função no seu código.
   Há duas formas principais de instalar: 1) Inclua o arquivo da função no seu código (```require_once "fn.php";```) 2) Copie e cole a função, junto das macros definidas (os "define") para o seu código de modo que não haja conflito entre nada.
+  Após isso, obtenha sua chave privada da Abstract API e defina na macro ```API_KEY```. E pronto! Pode ser utilizado!
 ## Uso
   A utilização é feita de forma bem simples.
   Apenas chame a função ```verify_phone_number``` com o número desejado como parâmetro.

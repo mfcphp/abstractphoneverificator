@@ -1,9 +1,9 @@
 # VERIFICADOR DE NÚMERO DE TELEFONE COM ABSTRACT API
 
 ## CONTEÚDO
-[Instalação](#instalação)
-[Uso](#uso)
-[Licença](#licença)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Licença](#licença)
 
 ## Instalação
   Não é necessária uma instalação por assim dizer, mas apenas uma inclusão da função no seu código.
